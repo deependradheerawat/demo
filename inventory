@@ -1,0 +1,10 @@
+ansible_hosts=manage ansible_connection=ssh ansible_username=root ansible_pass=root
+
+ansible_hosts=manage ansible_connection=ssh ansible_username=root ansible_pass=root
+
+
+
+
+[web]
+manage
+practical

@@ -1,0 +1,9 @@
+-hosts
+[web]
+  tasks
+    yum install -y httpd
+
+-hosts
+ deepesh
+  tasks
+    cp /mnt/* /var/www/htm
